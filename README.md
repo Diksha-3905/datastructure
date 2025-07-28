@@ -24,6 +24,3 @@ This repository contains challenging Data Structures and Algorithms (DSA) proble
   Calculates the maximum amount of money a robber can steal without triggering alarms in circularly arranged houses.  
 - **File:** `house_robber_ii.py`
 
----
-
-## 📂 Project Structure
